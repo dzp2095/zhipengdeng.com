@@ -14,7 +14,6 @@ I am now a Ph.D. student in <a href="https://www.titech.ac.jp/english">Tokyo Tec
 
 ## News
 - **[May. 2024]** Our paper about Federated Active Learning is accepted by Journal of Investigative Dermatology (IF=6.5).
-
 - **[April. 2023]** Our paper about Dose Reduction in Digital Breast Tomosynthesis is accepted by IEEE EMBC 2023.
 - **[July. 2022]** Our paper about Federated Learning with Active Learning is accepted by IEEE SMC 2022.
 - **[Sept. 2021]** I Start my Ph.D study at Tokyo Tech.
