@@ -16,7 +16,7 @@ I am now a Ph.D. student in <a href="https://www.titech.ac.jp/english">Tokyo Tec
 
 <!-- - **[May. 2024]** Our paper about Federated Client Unlearning is early accepted by MICCAI 2024. -->
 - **[May. 2024]** Our paper about Federated Active Learning is accepted by Journal of Investigative Dermatology (IF=6.5).
-<!-- - **[May. 2023]** Our paper about Federated Learning for Label Set Mismatch is early accepted by MICCAI 2024. -->
+<!-- - **[May. 2023]** Our paper about Federated Learning for Label Set Mismatch is early accepted by MICCAI 2023. -->
 - **[April. 2023]** Our paper about Dose Reduction in Digital Breast Tomosynthesis is accepted by IEEE EMBC 2023.
 
 
