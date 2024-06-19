@@ -1,0 +1,10 @@
+main:
+  - title: Federated Active Learning Framework for Efficient Annotation Strategy in Skin-lesion Classification
+    authors: <strong>Zhipeng Deng</strong>, Yuqiao Yang, Kenji Suzuki
+    journal_short: JID
+    journal: Journal of Investigative Dermatology
+    pdf: https://arxiv.org/pdf/2406.11310
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # page: https://ieeexplore.ieee.org/abstract/document/9945452
+    image: ./assets/img/fedal_jid.png
+    notes: JCR Q1/IF=6.5
