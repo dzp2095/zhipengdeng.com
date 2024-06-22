@@ -5,6 +5,6 @@ main:
     journal: Journal of Investigative Dermatology
     pdf: https://arxiv.org/pdf/2406.11310
     # code: https://github.com/MrGiovanni/ContinualLearning
-    # page: https://ieeexplore.ieee.org/abstract/document/9945452
+    page: https://doi.org/10.1016/j.jid.2024.05.023
     image: ./assets/img/fedal_jid.png
     notes: JCR Q1/IF=6.5
