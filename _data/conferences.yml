@@ -1,4 +1,25 @@
 main:
+  - title: "Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging"
+    authors: <strong>Zhipeng Deng</strong>, Luyang Luo, Hao Chen
+    conference_short: MICCAI
+    conference: The 27th International Conference on Medical Image Computing and Computer-Assisted Intervention
+    pdf: https://arxiv.org/pdf/2407.02356
+    code: https://github.com/dzp2095/FCU
+    # page: https://link.springer.com/chapter/10.1007/978-3-031-43898-1_12
+    # bibtex: https://ieeexplore.ieee.org/abstract/document/10340529
+    notes: Early Accept (11%)
+    image: ./assets/img/fcu_miccai2024.png
+
+  - title: "Scale Federated Learning for Label Set Mismatch in Medical Image Classification"
+    authors: <strong>Zhipeng Deng</strong>, Luyang Luo, Hao Chen
+    conference_short: MICCAI
+    conference: The 26th International Conference on Medical Image Computing and Computer-Assisted Intervention
+    pdf: https://arxiv.org/pdf/2304.06931
+    code: https://github.com/dzp2095/FedLSM
+    page: https://link.springer.com/chapter/10.1007/978-3-031-43898-1_12
+    # bibtex: https://ieeexplore.ieee.org/abstract/document/10340529
+    notes: Early Accept (14%)
+    image: ./assets/img/fedlsm_miccai2023.png
 
   - title: Radiation Dose Reduction in Digital Breast Tomosynthesis by MTANN with Multi-scale Kernels
     authors: <strong>Zhipeng Deng</strong>, Ze Jin, Kenji Suzuki
@@ -11,7 +32,7 @@ main:
     # notes: Early Accept
 
   - title: "FedAL: An Federated Active Learning Framework for Efficient Labeling in Skin Lesion Analysis"
-    authors: <strong>Zhipeng Deng</strong>, Yuqiao Yang, Ze Jin,Kenji Suzuki
+    authors: <strong>Zhipeng Deng</strong>, Yuqiao Yang, Ze Jin, Kenji Suzuki
     conference_short: SMC
     conference: 2022 IEEE International Conference on Systems, Man, and Cybernetics
     pdf: https://ieeexplore.ieee.org/abstract/document/10340529
@@ -20,3 +41,5 @@ main:
     # bibtex: https://ieeexplore.ieee.org/abstract/document/10340529
     notes: Oral Presentation
     image: ./assets/img/fedal.png
+
+   
