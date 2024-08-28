@@ -1,7 +1,7 @@
 main:
   - title: "Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging"
     authors: <strong>Zhipeng Deng</strong>, Luyang Luo, Hao Chen
-    conference_short: MICCAI
+    conference_short: MICCAI 2024
     conference: The 27th International Conference on Medical Image Computing and Computer-Assisted Intervention
     pdf: https://arxiv.org/pdf/2407.02356
     code: https://github.com/dzp2095/FCU
@@ -12,7 +12,7 @@ main:
 
   - title: "Scale Federated Learning for Label Set Mismatch in Medical Image Classification"
     authors: <strong>Zhipeng Deng</strong>, Luyang Luo, Hao Chen
-    conference_short: MICCAI
+    conference_short: MICCAI 2023
     conference: The 26th International Conference on Medical Image Computing and Computer-Assisted Intervention
     pdf: https://arxiv.org/pdf/2304.06931
     code: https://github.com/dzp2095/FedLSM
@@ -23,7 +23,7 @@ main:
 
   - title: Radiation Dose Reduction in Digital Breast Tomosynthesis by MTANN with Multi-scale Kernels
     authors: <strong>Zhipeng Deng</strong>, Ze Jin, Kenji Suzuki
-    conference_short: EMBC
+    conference_short: EMBC 2023
     conference: 2023 IEEE Engineering in Medicine and Biology Society.
     pdf: https://ieeexplore.ieee.org/abstract/document/9945452
     # code: https://github.com/MrGiovanni/ContinualLearning
@@ -33,7 +33,7 @@ main:
 
   - title: "FedAL: An Federated Active Learning Framework for Efficient Labeling in Skin Lesion Analysis"
     authors: <strong>Zhipeng Deng</strong>, Yuqiao Yang, Ze Jin, Kenji Suzuki
-    conference_short: SMC
+    conference_short: SMC 2022
     conference: 2022 IEEE International Conference on Systems, Man, and Cybernetics
     pdf: https://ieeexplore.ieee.org/abstract/document/10340529
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
