@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am now a Ph.D. student in <a href="https://www.titech.ac.jp/english">Tokyo Tech</a>. I got my M.Sc. at <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>. Prior to that, I obtained my bachelor’s degree from  <a href="https://www.whut.edu.cn/">Wuhan University of Technology</a>.
+I am now a Ph.D. student in <a href="https://www.isct.ac.jp/en">Science Tokyo</a> (formerly Tokyo Tech, renamed after merging with Tokyo Medical and Dental University in October 2024). I got my M.Sc. at <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a>. Prior to that, I obtained my bachelor’s degree from  <a href="https://www.whut.edu.cn/">Wuhan University of Technology</a>.
 
 
 ## Research Interests

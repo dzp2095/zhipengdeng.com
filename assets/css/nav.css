@@ -128,7 +128,7 @@
       }
   
       .topnav a.normal {
-        color: white;
+        color: rgb(33, 48, 115);
         float: none;
         padding: 14px 16px;
         text-decoration: none;
@@ -149,7 +149,7 @@
       }
   
       .topnav a.right {
-        color: white;
+        color: rgb(33, 48, 115);
         float: none;
         padding: 14px 16px;
         text-decoration: none;
