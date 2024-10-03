@@ -14,6 +14,7 @@ I am now a Ph.D. student in <a href="https://www.titech.ac.jp/english">Tokyo Tec
 
 ## News
 
+- **[Sep. 2024]** Our contributed book Chapter “Decentralized Diagnostics: The Role of Federated Learning in Modern Medical Imaging” in the book “Advances in Intelligent Disease Diagnosis and Treatment”, has been published.
 - **[May. 2024]** Our paper about Federated Client Unlearning is early accepted by MICCAI 2024.
 - **[May. 2024]** Our paper about Federated Active Learning is accepted by Journal of Investigative Dermatology (IF=6.5).
 - **[May. 2023]** Our paper about Federated Learning for Label Set Mismatch is early accepted by MICCAI 2023.
