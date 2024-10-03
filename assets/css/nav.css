@@ -2,8 +2,9 @@
 .topnav {
     background-color: #f6f9fd;
     overflow: hidden;
-  position:fixed;
-  z-index:999;
+    overflow-y: auto; /* 添加这行 */
+    position:fixed;
+    z-index:999;
     width:100%;
   }
   
