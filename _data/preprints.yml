@@ -1,0 +1,7 @@
+main:
+  - title: FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation
+    authors: <strong>Zhipeng Deng</strong>, Zhe Xu, Tsuyoshi Isshiki, Yefeng Zheng
+    journal: Under Review
+    pdf: https://arxiv.org/pdf/2501.07378
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/fedsemidg_2025.png

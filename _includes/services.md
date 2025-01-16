@@ -11,3 +11,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://ieee-iotj.org/"><autocolor>IEEE Internet of Things Journal(IoT)</autocolor></a></li>
 </ul>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://ieee-iotj.org/"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
+</ul>
