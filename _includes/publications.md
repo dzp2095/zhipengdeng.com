@@ -96,6 +96,8 @@
 
 {% endfor %}
 
+<h3 style="margin:0 10px 0;">Preprint</h3>
+
 {% for link in site.data.preprints.main %}
 
 <li>
