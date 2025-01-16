@@ -13,5 +13,5 @@
 </ul>
 
 <ul style="margin:0 0 3px;">
-  <li><a href="https://cis.ieee.org/"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
 </ul>
