@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am now a postdoc researcher at Westlake University <a href="https://en.westlake.edu.cn/"> working with Prof. Yefeng Zheng <a href="https://scholar.google.com/citations?hl=en&user=vAIECxgAAAAJ"> (IEEE&AIBME Fellow). I received my Ph.D. degree in <a href="https://www.isct.ac.jp/en">Science Tokyo</a>. I obtained my M.Sc. at <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a> and my bachelor’s degree from  <a href="https://www.whut.edu.cn/">Wuhan University of Technology</a>.
+I am now a postdoc researcher at <a href="https://en.westlake.edu.cn/"> Westlake University </a>  working with <a href="https://scholar.google.com/citations?hl=en&user=vAIECxgAAAAJ"> Prof. Yefeng Zheng</a>  (IEEE&AIMBE Fellow). I received my Ph.D. degree in <a href="https://www.isct.ac.jp/en">Science Tokyo</a>. I obtained my M.Sc. at <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a> and my bachelor’s degree from  <a href="https://www.whut.edu.cn/">Wuhan University of Technology</a>.
 
 
 ## Research Interests
