@@ -21,15 +21,15 @@ main:
     notes: Early Accept (14%)
     image: ./assets/img/fedlsm_miccai2023.png
 
-  - title: Radiation Dose Reduction in Digital Breast Tomosynthesis by MTANN with Multi-scale Kernels
-    authors: <strong>Zhipeng Deng</strong>, Ze Jin, Kenji Suzuki
-    conference_short: EMBC 2023
-    conference: 2023 IEEE Engineering in Medicine and Biology Society.
-    pdf: https://ieeexplore.ieee.org/abstract/document/9945452
-    # code: https://github.com/MrGiovanni/ContinualLearning
-    # page: https://ieeexplore.ieee.org/abstract/document/9945452
-    image: ./assets/img/dbt.jpg
-    # notes: Early Accept
+  # - title: Radiation Dose Reduction in Digital Breast Tomosynthesis by MTANN with Multi-scale Kernels
+  #   authors: <strong>Zhipeng Deng</strong>, Ze Jin, Kenji Suzuki
+  #   conference_short: EMBC 2023
+  #   conference: 2023 IEEE Engineering in Medicine and Biology Society.
+  #   pdf: https://ieeexplore.ieee.org/abstract/document/9945452
+  #   # code: https://github.com/MrGiovanni/ContinualLearning
+  #   # page: https://ieeexplore.ieee.org/abstract/document/9945452
+  #   image: ./assets/img/dbt.jpg
+  #   # notes: Early Accept
 
   - title: "FedAL: An Federated Active Learning Framework for Efficient Labeling in Skin Lesion Analysis"
     authors: <strong>Zhipeng Deng</strong>, Yuqiao Yang, Ze Jin, Kenji Suzuki
