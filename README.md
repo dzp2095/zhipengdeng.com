@@ -38,7 +38,7 @@ A template for Max Planck Institute for Informatics is available here: [[link](h
 ├── assets                                    #  some files
 ├── html_source_file                          #  compiled HTML files
 ├── .gitignore                                #  this file specifies intentionally untracked files that Git should ignore
-├── CNAME                                     #  the custom domain, will be used by GitHub page sevice
+├── CNAME                                     #  the custom domain, will be used by GitHub page service
 ├── Gemfile                                   #  a RubyGems related file
 ├── LICENSE                                   #  the license file
 ├── README.md                                 #  the readme file (English)
