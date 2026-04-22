@@ -1,10 +1,19 @@
 main:
+  - title: "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation"
+    authors: <strong>Zhipeng Deng</strong>, Zhe Xu, Tsuyoshi Isshiki, Yefeng Zheng
+    journal_short: MIA 2026
+    journal: Medical Image Analysis
+    pdf: https://arxiv.org/pdf/2501.07378
+    code: https://github.com/dzp2095/FedSemiDG
+    image: ./assets/img/fedsemidg_2025.png
+    notes: CAS Q1 / JCR Q1 / IF=11.8
+
   - title: Federated Active Learning Framework for Efficient Annotation Strategy in Skin-lesion Classification
     authors: <strong>Zhipeng Deng</strong>, Yuqiao Yang, Kenji Suzuki
-    journal_short: JID
+    journal_short: JID 2024
     journal: Journal of Investigative Dermatology
     pdf: https://arxiv.org/pdf/2406.11310
     # code: https://github.com/MrGiovanni/ContinualLearning
     page: https://doi.org/10.1016/j.jid.2024.05.023
     image: ./assets/img/fedal_jid.png
-    notes: JCR Q1/IF=6.5
+    notes: CAS Q2 / JCR Q1 / IF=5.7
