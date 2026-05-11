@@ -8,13 +8,17 @@ I am now a postdoc researcher at <a href="https://en.westlake.edu.cn/"> Westlake
 
 ## Research Interests
 
-- **Computer Vision:** Image Classification and Segmentation
-- **Machine Learning:** Semi-Supervised Learning, Federated Learning, and Self-Supervised Learning
+My research centers on **Trustworthy Medical AI**, with interests in:
+
+- **Robustness and Generalization:** test-time adaptation, domain generalization, semi-supervised learning
+- **Privacy and Data Rights:** federated learning, unlearning, unlearnable examples, dataset protection
+- **Reliable Multimodal Medical AI:** medical VLMs, clinical agents, visual question answering
+- **Medical LLM Safety and Alignment:** post-training safety alignment, safety evaluation, jailbreak robustness
 
 ## News
 
-- **[May. 2026]** Two papers were early accepted to MICCAI 2026 (~9%): VISTA on test-time adaptation for MRI segmentation (first author) and VoxShield on 3D medical dataset protection (co-first author; congrats to Xinyao!).
-- **[Apr. 2026]** Our paper "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation" is accepted by Medical Image Analysis.
+- **[May. 2026]** Two papers were early accepted to MICCAI 2026 (~9%): VISTA on test-time adaptation for MRI segmentation (first author) and VoxShield on 3D medical dataset protection (corresponding author; congrats to Xinyao!).
+- **[Apr. 2026]** Our paper "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation" is accepted by Medical Image Analysis (IF=11.8).
 - **[Mar. 2025]** I passed the final defense of my Ph.D. thesis and graduated from Science Tokyo.
 - **[Sep. 2024]** Our contributed book Chapter “Decentralized Diagnostics: The Role of Federated Learning in Modern Medical Imaging” in the book “Advances in Intelligent Disease Diagnosis and Treatment”, has been published.
 - **[May. 2024]** Our paper about Federated Client Unlearning is early accepted by MICCAI 2024.

@@ -1,4 +1,28 @@
 main:
+  - title: "Step-CoT: Stepwise Visual Chain-of-Thought for Medical Visual Question Answering"
+    authors: Lin Fan, Yafei Ou, <strong>Zhipeng Deng</strong>, Pengyu Dai, Hou Chongxian, Jiale Yan, Yaqian Li, Kaiwen Long, Xun Gong, Masayuki Ikebe, Yefeng Zheng
+    conference_short: CVPR 2026 Findings
+    conference: Findings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+    pdf: https://arxiv.org/pdf/2603.13878
+    page: https://arxiv.org/abs/2603.13878
+    notes: CVPR 2026 Findings
+
+  - title: "VISTA: Variance-Gated Inter-Sequence Test-Time Adaptation for Multi-Sequence MRI Segmentation"
+    authors: <strong>Zhipeng Deng</strong>, Jiale Zhou, Wenhan Jiang, Haolin Wang, Xun Lin, Yafei Ou, Yefeng Zheng
+    conference_short: MICCAI 2026
+    conference: The 29th International Conference on Medical Image Computing and Computer-Assisted Intervention
+    notes: Early Accept (~9%)
+    selected: true
+    selected_order: 1
+    selected_image: ./assets/img/vista_miccai2026.png
+    teaser_label: VISTA
+
+  - title: "VoxShield: Protecting 3D Medical Datasets from Unauthorized Training via Frequency-Aware Inter-Slice Disruption"
+    authors: Xinyao Liu, <strong>Zhipeng Deng</strong> <i class="fas fa-envelope author-note-icon" title="Corresponding author"></i>, Wenhan Jiang, Haolin Wang, Xun Lin, Yafei Ou, Yefeng Zheng <i class="fas fa-envelope author-note-icon" title="Corresponding author"></i>
+    conference_short: MICCAI 2026
+    conference: The 29th International Conference on Medical Image Computing and Computer-Assisted Intervention
+    notes: Early Accept (~9%)
+
   - title: "Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging"
     authors: <strong>Zhipeng Deng</strong>, Luyang Luo, Hao Chen
     conference_short: MICCAI 2024
@@ -9,6 +33,8 @@ main:
     # bibtex: https://ieeexplore.ieee.org/abstract/document/10340529
     notes: Early Accept (11%)
     image: ./assets/img/fcu_miccai2024.png
+    selected: true
+    selected_order: 3
 
   - title: "Scale Federated Learning for Label Set Mismatch in Medical Image Classification"
     authors: <strong>Zhipeng Deng</strong>, Luyang Luo, Hao Chen
@@ -20,6 +46,8 @@ main:
     # bibtex: https://ieeexplore.ieee.org/abstract/document/10340529
     notes: Early Accept (14%)
     image: ./assets/img/fedlsm_miccai2023.png
+    selected: true
+    selected_order: 4
 
   # - title: Radiation Dose Reduction in Digital Breast Tomosynthesis by MTANN with Multi-scale Kernels
   #   authors: <strong>Zhipeng Deng</strong>, Ze Jin, Kenji Suzuki
@@ -40,6 +68,5 @@ main:
     # page: https://ieeexplore.ieee.org/abstract/document/10340529
     # bibtex: https://ieeexplore.ieee.org/abstract/document/10340529
     notes: Oral Presentation
-    image: ./assets/img/fedal.png
 
    

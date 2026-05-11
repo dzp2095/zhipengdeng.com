@@ -7,6 +7,8 @@ main:
     code: https://github.com/dzp2095/FedSemiDG
     image: ./assets/img/fedsemidg_2025.png
     notes: CAS Q1 / JCR Q1 / IF=11.8
+    selected: true
+    selected_order: 2
 
   - title: Federated Active Learning Framework for Efficient Annotation Strategy in Skin-lesion Classification
     authors: <strong>Zhipeng Deng</strong>, Yuqiao Yang, Kenji Suzuki
