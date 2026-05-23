@@ -11,6 +11,9 @@ main:
     authors: <strong>Zhipeng Deng</strong>, Jiale Zhou, Wenhan Jiang, Haolin Wang, Xun Lin, Yafei Ou, Yefeng Zheng
     conference_short: MICCAI 2026
     conference: The 29th International Conference on Medical Image Computing and Computer-Assisted Intervention
+    pdf: https://arxiv.org/pdf/2605.17433
+    code: https://github.com/dzp2095/VISTA
+    page: https://arxiv.org/abs/2605.17433
     notes: Early Accept (~9%)
     selected: true
     selected_order: 1
@@ -21,6 +24,9 @@ main:
     authors: Xinyao Liu, <strong>Zhipeng Deng</strong> <i class="fas fa-envelope author-note-icon" title="Corresponding author"></i>, Wenhan Jiang, Haolin Wang, Xun Lin, Yafei Ou, Yefeng Zheng <i class="fas fa-envelope author-note-icon" title="Corresponding author"></i>
     conference_short: MICCAI 2026
     conference: The 29th International Conference on Medical Image Computing and Computer-Assisted Intervention
+    pdf: https://arxiv.org/pdf/2605.17345
+    code: https://github.com/KK266299/VoxShield
+    page: https://arxiv.org/abs/2605.17345
     notes: Early Accept (~9%)
 
   - title: "Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging"
