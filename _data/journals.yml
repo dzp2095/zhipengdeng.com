@@ -1,7 +1,7 @@
 main:
   - title: "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation"
     authors: <strong>Zhipeng Deng</strong>, Zhe Xu, Tsuyoshi Isshiki, Yefeng Zheng
-    journal_short: MIA 2026
+    journal_short: MedIA 2026
     journal: Medical Image Analysis
     pdf: https://arxiv.org/pdf/2501.07378
     code: https://github.com/dzp2095/FedSemiDG
