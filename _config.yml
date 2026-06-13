@@ -1,21 +1,29 @@
 # Basic Information 
 title: Zhipeng Deng
 chinese: 邓志鹏
-position: Postdoc
+position: Postdoctoral Researcher
+research_theme: Trustworthy Medical AI
 affiliation: Westlake University
 affiliation_link: https://en.westlake.edu.cn/
 email: dengzhipeng[at]westlake[dot]edu[dot]cn
+email_plain: dengzhipeng@westlake.edu.cn
+location: Hangzhou, China
+research_tags:
+  - "Robustness &<br>Generalization"
+  - Privacy Preservation
+  - Lifecycle Medical AI
+  - Safety & Evaluation
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Zhipeng Deng, Trustworthy Medical AI, Federated Learning, Test-Time Adaptation, Medical AI
+description: Personal academic website of Zhipeng Deng, postdoctoral researcher at Westlake University.
+canonical: https://zhipengdeng.com/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com.hk/citations?user=Fk02ST4AAAAJ&hl=zh-CN
-cv_link: assets/files/cv.pdf?v=20260531-1
+cv_link: assets/files/cv.pdf?v=20260613-1
 github_link: https://github.com/dzp2095
 linkedin: https://www.linkedin.com/in/zhipeng-deng-04556211b/
 
@@ -35,7 +43,7 @@ auto_dark_mode: true
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
-font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # or "Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
@@ -47,6 +55,7 @@ remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
 exclude:
+  - .bundle/
   - Gemfile
   - Gemfile.lock
   - README.md
@@ -54,5 +63,7 @@ exclude:
   - README_zh_Hant.md
   - README_de.md
   - LICENSE
+  - design-qa.md
   - minimal-light.gemspec
   - html_source_file/
+  - vendor/

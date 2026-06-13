@@ -4,15 +4,44 @@ title: News
 permalink: /news.html
 ---
 
-## News
-
-- **[May. 2026]** Two papers were early accepted to MICCAI 2026 (~9%): VISTA on test-time adaptation for MRI segmentation (first author) and VoxShield on 3D medical dataset protection (corresponding author; congrats to Xinyao!).
-- **[Apr. 2026]** Our paper "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation" is accepted by Medical Image Analysis (IF=11.8).
-- **[Mar. 2025]** I passed the final defense of my Ph.D. thesis and graduated from Science Tokyo.
-- **[Sep. 2024]** Our contributed book Chapter “Decentralized Diagnostics: The Role of Federated Learning in Modern Medical Imaging” in the book “Advances in Intelligent Disease Diagnosis and Treatment”, has been published.
-- **[May. 2024]** Our paper about Federated Client Unlearning is early accepted by MICCAI 2024.
-- **[May. 2024]** Our paper about Federated Active Learning is accepted by Journal of Investigative Dermatology (5-year IF=6.7).
-- **[May. 2023]** Our paper about Federated Learning for Label Set Mismatch is early accepted by MICCAI 2023.
-- **[April. 2023]** Our paper about Dose Reduction in Digital Breast Tomosynthesis is accepted by IEEE EMBC 2023.
-
-[Back to Home](index.html)
+<section class="content-block" id="news-archive">
+  <div class="section-heading">
+    <span class="section-icon" aria-hidden="true"><i class="fas fa-bullhorn"></i></span>
+    <h2>News</h2>
+  </div>
+  <ul class="news-list">
+    <li>
+      <time>May 2026</time>
+      <p>Three papers were accepted to MICCAI 2026, including two early accepts (~9%): VISTA on MRI segmentation test-time adaptation (first author), VoxShield on 3D medical dataset protection (corresponding author), and BeatRhythm-TTA on ECG classification test-time adaptation (corresponding author). VoxShield and BeatRhythm-TTA are student-led works by undergraduate students I mentored.</p>
+    </li>
+    <li>
+      <time>Apr 2026</time>
+      <p>Our paper "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation" was accepted by Medical Image Analysis (IF=11.8).</p>
+    </li>
+    <li>
+      <time>Mar 2025</time>
+      <p>I passed the final defense of my Ph.D. thesis and graduated from Science Tokyo.</p>
+    </li>
+    <li>
+      <time>Sep 2024</time>
+      <p>Our contributed book chapter "Decentralized Diagnostics: The Role of Federated Learning in Modern Medical Imaging" in the book "Advances in Intelligent Disease Diagnosis and Treatment" was published.</p>
+    </li>
+    <li>
+      <time>May 2024</time>
+      <p>Our paper about Federated Client Unlearning was early accepted by MICCAI 2024.</p>
+    </li>
+    <li>
+      <time>May 2024</time>
+      <p>Our paper about Federated Active Learning was accepted by Journal of Investigative Dermatology.</p>
+    </li>
+    <li>
+      <time>May 2023</time>
+      <p>Our paper about Federated Learning for Label Set Mismatch was early accepted by MICCAI 2023.</p>
+    </li>
+    <li>
+      <time>Apr 2023</time>
+      <p>Our paper about dose reduction in digital breast tomosynthesis was accepted by IEEE EMBC 2023.</p>
+    </li>
+  </ul>
+  <a class="text-link" href="{{ '/' | relative_url }}">Back to Home <span aria-hidden="true">&rarr;</span></a>
+</section>

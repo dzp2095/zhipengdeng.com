@@ -29,6 +29,12 @@ main:
     page: https://arxiv.org/abs/2605.17345
     notes: Early Accept (~9%)
 
+  - title: "Test-Time Adaptation for ECG Classification via SQI-Gated Self-Training and Beat-Rhythm Consistency"
+    authors: Wenhan Jiang, <strong>Zhipeng Deng</strong> <i class="fas fa-envelope author-note-icon" title="Corresponding author"></i>, Jiale Zhou, Haolin Wang, Yafei Ou, Yefeng Zheng <i class="fas fa-envelope author-note-icon" title="Corresponding author"></i>
+    conference_short: MICCAI 2026
+    conference: The 29th International Conference on Medical Image Computing and Computer-Assisted Intervention
+    notes: Accepted
+
   - title: "Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging"
     authors: <strong>Zhipeng Deng</strong>, Luyang Luo, Hao Chen
     conference_short: MICCAI 2024

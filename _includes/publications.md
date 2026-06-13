@@ -1,4 +1,7 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<div class="section-heading publication-heading" id="publications">
+  <span class="section-icon" aria-hidden="true"><i class="fas fa-file-alt"></i></span>
+  <h2 class="page-title">Publications</h2>
+</div>
 <p class="publication-note publication-note-top"><sup>*</sup> indicates equal contributions; <i class="fas fa-envelope author-note-icon" title="Corresponding author"></i> indicates corresponding authors.</p>
 
 <div class="publications">

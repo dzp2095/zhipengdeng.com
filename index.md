@@ -1,38 +1,89 @@
 ---
 layout: homepage
+title: Home
 ---
 
-## About Me
-I am now a postdoc researcher at <a href="https://en.westlake.edu.cn/"> Westlake University </a>  working with <a href="https://scholar.google.com/citations?hl=en&user=vAIECxgAAAAJ"> Prof. Yefeng Zheng</a>  (IEEE&AIMBE Fellow). I received my Ph.D. degree in <a href="https://www.isct.ac.jp/en">Science Tokyo</a>. I obtained my M.Sc. at <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a> and my bachelor’s degree from  <a href="https://www.whut.edu.cn/">Wuhan University of Technology</a>.
+<section class="content-block" id="bio">
+  <div class="section-heading">
+    <span class="section-icon" aria-hidden="true"><i class="fas fa-user"></i></span>
+    <h2>Biography</h2>
+  </div>
+  <p>
+    I am a postdoctoral researcher at <a href="https://en.westlake.edu.cn/">Westlake University</a>, working with
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=vAIECxgAAAAJ">Prof. Yefeng Zheng</a> (IEEE &amp; AIMBE Fellow).
+    I received my Ph.D. degree from <a href="https://www.isct.ac.jp/en">Science Tokyo</a>. Before that, I obtained my M.Sc.
+    from <a href="https://hkust.edu.hk/">Hong Kong University of Science and Technology</a> and my bachelor's degree from
+    <a href="https://www.whut.edu.cn/">Wuhan University of Technology</a>.
+  </p>
+</section>
 
+<section class="content-block" id="research-interests">
+  <div class="section-heading">
+    <span class="section-icon" aria-hidden="true"><i class="fas fa-lightbulb"></i></span>
+    <h2>Research Interests</h2>
+  </div>
+  <p>
+    I build <strong>Trustworthy Medical AI</strong> systems designed for the complexities of real-world clinical
+    deployment. By addressing core challenges in model robustness, privacy preservation, and lifecycle safety, my
+    research aims to develop dependable tools that responsibly integrate into dynamic healthcare environments.
+  </p>
+  <div class="interest-hierarchy">
+    <div class="interest-theme">
+      <span>Research Direction</span>
+      <strong>Trustworthy Medical AI</strong>
+    </div>
+    <div class="interest-grid" aria-label="Subareas of Trustworthy Medical AI">
+      <article>
+        <h3>Robustness &amp; Generalization</h3>
+        <p>Domain generalization, test-time adaptation, and semi-supervised learning for reliable medical image and signal processing.</p>
+      </article>
+      <article>
+        <h3>Privacy Preservation</h3>
+        <p>Federated learning, machine unlearning, and data-use rights protection via unlearnable examples for sensitive clinical data.</p>
+      </article>
+      <article>
+        <h3>Lifecycle Medical AI</h3>
+        <p>Continuous validation, deployment-time monitoring, and dynamic updates across the lifespan of medical AI systems.</p>
+      </article>
+      <article>
+        <h3>Safety &amp; Evaluation</h3>
+        <p>Safety alignment and rigorous evaluation for medical foundation models, including VLMs and autonomous clinical agents.</p>
+      </article>
+    </div>
+  </div>
+</section>
 
-## Research Interests
+<section class="content-block" id="news">
+  <div class="section-heading">
+    <span class="section-icon" aria-hidden="true"><i class="fas fa-bullhorn"></i></span>
+    <h2>News</h2>
+  </div>
+  <ul class="news-list">
+    <li>
+      <time>May 2026</time>
+      <p>Three papers were accepted to MICCAI 2026, including two early accepts: VISTA, VoxShield, and BeatRhythm-TTA.</p>
+    </li>
+    <li>
+      <time>Apr 2026</time>
+      <p>Our paper "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation" was accepted by Medical Image Analysis.</p>
+    </li>
+    <li>
+      <time>Mar 2025</time>
+      <p>I passed the final defense of my Ph.D. thesis and graduated from Science Tokyo.</p>
+    </li>
+    <li>
+      <time>Sep 2024</time>
+      <p>Our contributed book chapter on federated learning in modern medical imaging was published.</p>
+    </li>
+  </ul>
+  <a class="text-link" href="{{ '/news.html' | relative_url }}">More news <span aria-hidden="true">&rarr;</span></a>
+</section>
 
-My research centers on **Trustworthy Medical AI**, with interests in:
-
-- **Robustness and Generalization:** test-time adaptation, domain generalization, semi-supervised learning
-- **Privacy and Data Rights:** federated learning, unlearning, unlearnable examples, dataset protection
-- **Reliable Multimodal Medical AI:** medical VLMs, clinical agents, visual question answering
-- **Medical LLM Safety and Alignment:** post-training safety alignment, safety evaluation, jailbreak robustness
-
-## News
-
-- **[May. 2026]** Two papers were early accepted to MICCAI 2026 (~9%): VISTA on test-time adaptation for MRI segmentation (first author) and VoxShield on 3D medical dataset protection (corresponding author; congrats to Xinyao!).
-- **[Apr. 2026]** Our paper "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation" is accepted by Medical Image Analysis (IF=11.8).
-- **[Mar. 2025]** I passed the final defense of my Ph.D. thesis and graduated from Science Tokyo.
-- **[Sep. 2024]** Our contributed book Chapter “Decentralized Diagnostics: The Role of Federated Learning in Modern Medical Imaging” in the book “Advances in Intelligent Disease Diagnosis and Treatment”, has been published.
-- **[May. 2024]** Our paper about Federated Client Unlearning is early accepted by MICCAI 2024.
-- **[May. 2024]** Our paper about Federated Active Learning is accepted by Journal of Investigative Dermatology (5-year IF=6.7).
-
-[More News](news.html)
-
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
-
-{% include_relative _includes/contact.md %}
-
-<div style="margin-top: 10px; width: 100px; display: flex; justify-content: center;">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=r658mGbOXBv4KifU2G2eoBk6CoRImBZPx-ZmAF1FQjk"></script>
-</div>
+<section class="content-block" id="selected-publications">
+  <div class="section-heading">
+    <span class="section-icon" aria-hidden="true"><i class="fas fa-file-alt"></i></span>
+    <h2>Selected Publications</h2>
+  </div>
+  {% include selected-publications.md %}
+  <a class="text-link" href="{{ '/publications.html' | relative_url }}">View all publications <span aria-hidden="true">&rarr;</span></a>
+</section>
