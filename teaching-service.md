@@ -32,18 +32,29 @@ permalink: /teaching-service.html
     <span class="section-icon" aria-hidden="true"><i class="fas fa-users"></i></span>
     <h2>Mentoring</h2>
   </div>
-  <div class="mentoring-compact-list">
-    <div class="mentoring-compact-item">
-      <strong>Xinyao Liu</strong>
-      <span>Dalian University of Technology</span>
-      <span>Since Sep 2025</span>
-      <span>Medical dataset protection; VoxShield, MICCAI 2026 Early Accept</span>
+  <div class="mentoring-table">
+    <div class="mentoring-table-head" aria-hidden="true">
+      <span>Student</span>
+      <span>Research Direction</span>
+      <span>First-Author Publications</span>
     </div>
-    <div class="mentoring-compact-item">
-      <strong>Wenhan Jiang</strong>
-      <span>Westlake University</span>
-      <span>Since Sep 2025</span>
-      <span>Clinical signal adaptation; BeatRhythm-TTA, MICCAI 2026</span>
+    <div class="mentoring-row">
+      <div class="mentoring-student">
+        <strong>Xinyao Liu</strong>
+        <span>Dalian University of Technology</span>
+        <span>Since Sep 2025</span>
+      </div>
+      <span data-label="Research Direction">Medical dataset protection</span>
+      <span data-label="First-Author Publications">VoxShield, MICCAI 2026 Early Accept</span>
+    </div>
+    <div class="mentoring-row">
+      <div class="mentoring-student">
+        <strong>Wenhan Jiang</strong>
+        <span>Westlake University</span>
+        <span>Since Sep 2025</span>
+      </div>
+      <span data-label="Research Direction">Clinical signal adaptation</span>
+      <span data-label="First-Author Publications">BeatRhythm-TTA, MICCAI 2026</span>
     </div>
   </div>
 </section>
