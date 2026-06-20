@@ -12,7 +12,7 @@ permalink: /news.html
   <ul class="news-list">
     <li>
       <time>May 2026</time>
-      <p>Three papers were accepted to MICCAI 2026, including two early accepts (~9%): VISTA on MRI segmentation test-time adaptation (first author), VoxShield on 3D medical dataset protection (corresponding author), and BeatRhythm-TTA on ECG classification test-time adaptation (corresponding author). VoxShield and BeatRhythm-TTA are student-led works by undergraduate students I mentored.</p>
+      <p>Two papers were accepted to MICCAI 2026: VoxShield on 3D medical dataset protection (Early Accept, corresponding author) and BeatRhythm-TTA on ECG classification test-time adaptation (corresponding author). Both are student-led works by undergraduate students I mentored.</p>
     </li>
     <li>
       <time>Apr 2026</time>

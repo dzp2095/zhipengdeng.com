@@ -61,7 +61,7 @@ title: Home
   <ul class="news-list">
     <li>
       <time>May 2026</time>
-      <p>Three papers were accepted to MICCAI 2026, including two early accepts: VISTA, VoxShield, and BeatRhythm-TTA.</p>
+      <p>Two papers were accepted to MICCAI 2026: VoxShield and BeatRhythm-TTA.</p>
     </li>
     <li>
       <time>Apr 2026</time>

@@ -218,10 +218,17 @@
 {% endfor %}
 </ol>
 
-{% if site.data.preprints.main.size > 0 %}
+{% assign has_unselected_preprints = false %}
+{% for link in site.data.preprints.main %}
+{% unless link.selected %}
+{% assign has_unselected_preprints = true %}
+{% endunless %}
+{% endfor %}
+{% if has_unselected_preprints %}
 <h3 class="publication-section-title">Preprint</h3>
 <ol class="bibliography text-bibliography">
 {% for link in site.data.preprints.main %}
+{% unless link.selected %}
 <li class="publication-item text-publication">
   <div class="publication-content">
     <div class="publication-title-line">
@@ -251,6 +258,7 @@
     </div>
   </div>
 </li>
+{% endunless %}
 {% endfor %}
 </ol>
 {% endif %}

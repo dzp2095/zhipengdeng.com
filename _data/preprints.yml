@@ -1,1 +1,9 @@
-main: []
+main:
+  - title: "VISTA: Variance-Gated Inter-Sequence Test-Time Adaptation for Multi-Sequence MRI Segmentation"
+    authors: <strong>Zhipeng Deng</strong>, Jiale Zhou, Wenhan Jiang, Haolin Wang, Xun Lin, Yafei Ou, Yefeng Zheng
+    journal_short: arXiv 2026
+    journal: arXiv preprint
+    pdf: https://arxiv.org/pdf/2605.17433
+    code: https://github.com/dzp2095/VISTA
+    page: https://arxiv.org/abs/2605.17433
+    notes: Preprint
