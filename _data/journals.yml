@@ -6,7 +6,7 @@ main:
     pdf: https://arxiv.org/pdf/2501.07378
     code: https://github.com/dzp2095/FedSemiDG
     image: ./assets/img/fedsemidg_2025.png
-    notes: CAS Q1 / JCR Q1 / IF=11.8
+    notes: CAS Q1 / JCR Q1 / IF=14.0
     selected: true
     selected_order: 2
 
@@ -18,4 +18,4 @@ main:
     # code: https://github.com/MrGiovanni/ContinualLearning
     page: https://doi.org/10.1016/j.jid.2024.05.023
     image: ./assets/img/fedal_jid.png
-    notes: CAS Q2 / JCR Q1 / IF=5.7
+    notes: CAS Q2 / JCR Q1 / IF=7.0

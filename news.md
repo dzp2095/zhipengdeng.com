@@ -16,7 +16,7 @@ permalink: /news.html
     </li>
     <li>
       <time>Apr 2026</time>
-      <p>Our paper "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation" was accepted by Medical Image Analysis (IF=11.8).</p>
+      <p>Our paper "FedSemiDG: Domain Generalized Federated Semi-supervised Medical Image Segmentation" was accepted by Medical Image Analysis (IF=14.0).</p>
     </li>
     <li>
       <time>Mar 2025</time>
